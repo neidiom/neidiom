@@ -1,2 +1,0 @@
-# neidiom
-neidiom.com
