@@ -13,13 +13,13 @@ I was tasked to finish a simple script to check the expiration of SSL certificat
 You must define `slack_webhook` and `domains` as both variables are required.
 
 Optionally configurable variables
-* ssl_port - standard is 443,
-* ssl_expiry_days_check - the script starts warning if certificate is expiring in less than this period,
-* cron_period_check - when the cron job shuld be run.
+* **ssl_port** - standard is 443,
+* **ssl_expiry_days_check** - the script starts warning if certificate is expiring in less than this period,
+* **cron_period_check** - when the cron job shuld be run.
 
 Example ``ansible_ssl_check.yml`` playbook .
 
-````
+{% highlight yaml %}
 ---
 - hosts: cache-1-lupon-media
   roles:
@@ -31,7 +31,8 @@ Example ``ansible_ssl_check.yml`` playbook .
     domains:
       - github.com
       - gitlab.com
-````
+{% endhighlight %}
+
 If you want to test things out then change `ssl_expiry_days_check` to something high like **300**.
 
 ## Code repository
