@@ -34,7 +34,6 @@ Example ``ansible_ssl_check.yml`` playbook .
 ````
 If you want to test things out then change `ssl_expiry_days_check` to something high like **300**.
 
-## Slack notifications
+## Code repository
 
-You will get notifications like this one. 
-![](https://github.com/neidiom/my_tutorials/blob/master/ssl_certificate_expiration/slack.png)
+You can find the Gitub repo [here](https://github.com/neidiom/ansible_ssl_expiry_check).
