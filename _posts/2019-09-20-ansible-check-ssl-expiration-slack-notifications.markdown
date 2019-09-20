@@ -21,7 +21,7 @@ Example ``ansible_ssl_check.yml`` playbook .
 
 {% highlight yaml %}
 ---
-- hosts: cache-1-lupon-media
+- hosts: server_name
   roles:
     - user_group_directories
     - rvm
