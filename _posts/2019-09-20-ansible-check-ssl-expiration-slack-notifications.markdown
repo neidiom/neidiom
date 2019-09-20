@@ -2,7 +2,7 @@
 layout: post
 title:  "Ansible: Get a Slack notification when your SSL certificate is about to expire"
 date:   2019-09-20 17:09:20 +0200
-categories: ansible ssl ruby rvm
+categories: ansible slack
 ---
 # Get a Slack notification when your SSL certificate is about to expire.
 
