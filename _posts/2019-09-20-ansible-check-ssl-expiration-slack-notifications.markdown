@@ -6,7 +6,7 @@ categories: ansible slack
 ---
 # Get a Slack notification when your SSL certificate is about to expire.
 
-I was tasked to finish a simple script to check the expiration of SSL certificates and post the notifications to our Slack channel. I wrote an Ansible playbook just to spice up everyhing. I had fun doing this so I will share the code hoping someone else might find it useful.
+I was tasked to finish a simple script to check the expiration of SSL certificates and post the notifications to our Slack channel. I wrote an Ansible playbook just to spice up everything. I had fun doing this so I will share the code hoping someone else might find it useful.
 
 ## Configure the Ansible playbook
 
