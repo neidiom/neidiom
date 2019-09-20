@@ -35,9 +35,16 @@ Example ``ansible_ssl_check.yml`` playbook .
 
 ## Testing
 
-If you want to test things out then change 
+If you want to test things out then change
 * `ssl_expiry_days_check` to something high like `'300'`,
 * `cron_period_check` to `'hourly'`.
+
+## Slack notifications
+
+Your notifications will look like this.
+
+![slack](/img/slack.png)
+
 
 ## Code repository
 
