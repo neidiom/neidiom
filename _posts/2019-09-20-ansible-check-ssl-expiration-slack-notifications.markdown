@@ -33,7 +33,11 @@ Example ``ansible_ssl_check.yml`` playbook .
       - gitlab.com
 {% endhighlight %}
 
-If you want to test things out then change `ssl_expiry_days_check` to something high like **300**.
+## Testing
+
+If you want to test things out then change 
+* `ssl_expiry_days_check` to something high like `'300'`,
+* `cron_period_check` to `'hourly'`.
 
 ## Code repository
 
