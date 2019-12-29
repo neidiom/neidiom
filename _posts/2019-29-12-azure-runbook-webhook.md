@@ -31,6 +31,7 @@ if ($WebHookData){
 }
 else {
     Write-Output 'No data received'
+}
 
 ````
 
