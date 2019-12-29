@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Azure: runbook webhook"
+date:   2019-12-29 12:50:20 +0200
+categories: azure webhhok runbook
+---
 
 ````
 When a client starts a runbook using a webhook, it can't override the parameter values defined in the webhook. 
