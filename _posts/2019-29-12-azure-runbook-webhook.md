@@ -56,3 +56,4 @@ else {
 
 * https://docs.microsoft.com/en-us/azure/automation/automation-webhooks
 * https://www.ciraltos.com/webhooks-and-azure-automation-runbooks/
+* https://www.spinnaker.io/guides/user/pipeline/triggers-with-artifactsrewrite/webhooks/
