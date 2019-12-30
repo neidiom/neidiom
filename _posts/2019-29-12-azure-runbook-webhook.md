@@ -30,6 +30,13 @@ ENDPOINT="https://s2events.azure-automation.net/webhooks?token=xxxxxxxxxxxxxxxxx
 curl $ENDPOINT -X POST -H "content-type: application/json" -d "{ "firstname": "Nedim", "lastname": "Hadzimahmutovic" }"
 {% endhighlight %}
 
+Executing the curl script will show you the JOB ID, like shown below
+
+{% highlight bash %}
+nedim@T580:~$ ./curl.sh 
+{"JobIds":["00782a90-ee28-4db5-a31d-c346cc26f443"]}
+{% endhighlight %}
+
 ## Sample
 
 ````
