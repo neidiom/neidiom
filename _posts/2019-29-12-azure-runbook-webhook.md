@@ -24,11 +24,11 @@ Write-Output "Hello $firstname $lastname"
 
 ### Send parameters to webhook with CURL
 
-````
+{% highlight bash %}
 #!/bin/bash
 ENDPOINT="https://s2events.azure-automation.net/webhooks?token=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 curl $ENDPOINT -X POST -H "content-type: application/json" -d "{ "firstname": "Nedim", "lastname": "Hadzimahmutovic" }"
-````
+{% endhighlight %}
 
 ## Sample
 
