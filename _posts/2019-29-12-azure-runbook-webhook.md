@@ -22,6 +22,12 @@ param(
 Write-Output "Hello $firstname $lastname"
 ````
 
+### Send parameters to webhook with CURL
+
+````
+curl $ENDPOINT -X POST -H "content-type: application/json" -d "{ }"
+````
+
 ## Sample
 
 ````
