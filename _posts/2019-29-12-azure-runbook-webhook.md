@@ -11,6 +11,17 @@ To receive data from the client, the runbook can accept a single parameter calle
 This parameter is of a type [object] that contains data that the client includes in the POST request.
 ````
 
+## Hello World PowerShell Runbook
+
+````
+param(
+    $firstname,
+    $lastname
+)
+
+Write-Output "Hello $firstname $lastname"
+````
+
 ## Sample
 
 ````
