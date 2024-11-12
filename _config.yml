@@ -1,10 +1,10 @@
 title: DevOps and stuff
 email: h.nedim@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Taking notes about some of stuff I do.
+description: >- # This means to ignore newlines until "baseurl:"
+  Taking notes about some of the stuff I do.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: n_strutter
+twitter_username: ned_techie
 github_username:  neidiom
 
 # Build settings
