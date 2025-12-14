@@ -7,10 +7,8 @@
 ## Publications
 
 #### An Event-Driven Architecture Case Study: Lessons from a Real-World Application
-A compilation of my AWS-related blog articles compiled into an e-book can be downloaded for free. 
-* [![An Event-Driven Architecture Case Study]]([https://nedtechie.gumroad.com/l/Read_About_AWS_While_Your_Coffee_Brews](https://drive.google.com/file/d/1F3mOTKY91DwKj7qQjOxIX9gAZIHKgA2q/view))
+* [An Event-Driven Architecture Case Study]([https://nedtechie.gumroad.com/l/Read_About_AWS_While_Your_Coffee_Brews](https://drive.google.com/file/d/1F3mOTKY91DwKj7qQjOxIX9gAZIHKgA2q/view))
 
-* 
 #### Read About AWS While Your Coffee Brews
 A compilation of my AWS-related blog articles compiled into an e-book can be downloaded for free. 
 * [![Read About AWS While Your Coffee Brews](./img/cover_book_Read-About-AWS-While-Your-Coffee-Brews_small.jpg "Read About AWS While Your Coffee Brews")](https://nedtechie.gumroad.com/l/Read_About_AWS_While_Your_Coffee_Brews)
